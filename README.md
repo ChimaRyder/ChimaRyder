@@ -1,16 +1,13 @@
-### Hi there 👋
+## Frenz Repunte ⛩
 
-<!--
-**ChimaRyder/ChimaRyder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sophmore CS student at CIT-U. 30% algorithms, 20% coffee, 50% Java and C++.
 
-Here are some ideas to get you started:
+### Passionate About:
+- Game Development 👾
+- Software Development 💻
+- Practicing Frontend Technologies and Frameworks 🖌
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Pushing:
+- Occasional school dumps 
+
+**📧 For business:** frenzrpnte@gmail.com
