@@ -25,8 +25,8 @@ Sophomore CS student at CIT-U. 30% algorithms, 20% coffee, and 50% Java and C++.
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=ChimaRyder&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ChimaRyder&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChimaRyder&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ChimaRyder&theme=tokyonight&hide_border=false)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ChimaRyder&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
