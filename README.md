@@ -8,7 +8,9 @@ Sophomore CS student at CIT-U. 30% algorithms, 20% coffee, and 50% Java and C++.
 - Practicing Frontend Technologies and Frameworks 🖌
 
 ### Currently Pushing:
-- Occasional school dumps 
+- OOP2 Dodgeball Platformer
+- IM1 S&R E-Commerce Website
+- MobDev TranSugbo App
 
 **📧 For business:** frenzrpnte@gmail.com
 
