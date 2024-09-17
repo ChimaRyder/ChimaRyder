@@ -1,6 +1,6 @@
 ## Frenz Repunte ⛩
 
-Junior CS student at CIT-U. Cooks a mean pasta if you ask me.
+Junior CS student at CIT-U. Listens to the Nicole Album a little too much.
 
 ### Passionate About:
 - Game Development 👾
