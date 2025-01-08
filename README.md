@@ -8,9 +8,7 @@ Junior CS student at CIT-U. Listens to the Nicole Album a little too much.
 - Practicing Frontend Technologies and Frameworks 🖌
 
 ### Currently Pushing:
-- IM2 PetCo Idle Gacha Website
-- AppDev PawPals Pet Service App
-- Random other repos
+- N/A
 
 **📧 For Business:** <br>
 [![Gmail](https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=Gmail&logoColor=%23FFFFFF)](mailto:frenzrpnte@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/frenzr)
