@@ -1,6 +1,6 @@
 ## Frenz Repunte ⛩
 
-Junior CS student at CIT-U. Loves playing the Sicilian Defense
+Junior CS student at CIT-U. Loves playing the Sicilian Defense.
 
 ### Passionate About:
 - Game Development 👾
