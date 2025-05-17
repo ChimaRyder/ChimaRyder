@@ -1,6 +1,6 @@
 ## Frenz Repunte ⛩
 
-Junior CS student at CIT-U. Listens to the Nicole Album a little too much.
+Junior CS student at CIT-U. Loves playing the Sicilian Defense
 
 ### Passionate About:
 - Game Development 👾
