@@ -1,4 +1,4 @@
-![https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc0OTk5NzAsIm5iZiI6MTc0NzQ5OTY3MCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTE3VDE2MzQzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBmNTY3OTU3ZTIwYWI1YTQ2ZjViNjcxZTQ1MmM4OWUzNzMxZTcwZjEwYzlhNzI3MjlkYWM1OGY1Nzc0NWU4ZGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.jCM_ogM0mV9fpvDcBPfEKMJ4B-2gQYy8GslnnXGx90c)
+![Perfect Loop](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b)
 
 <h1 align="center"> ⛩ Frenz Repunte ⛩ </h1>
 
@@ -81,5 +81,5 @@ const bio = {
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=thesuperchima123&count=3"/>
   <br/>
-  <img src="https://private-user-images.githubusercontent.com/74038190/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc0OTk5NzAsIm5iZiI6MTc0NzQ5OTY3MCwicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU5NzMtZTRmMjgyMDQtZWE4OC00MzY0LWEzMjEtODMzMGMzZmJkZTZhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTE3VDE2MzQzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJjMjhiOTY2MjJlZTliMzA4NmMyODZlZjIxNzljMGQwMTc5NzU5NzZiMzg2OGVkY2IzYzkyNWRmODIzN2MzYWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ele6EwZ9Gld1uLHaDoN_uAGkAxFkial4PMOUCY44-Z8"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e4f28204-ea88-4364-a321-8330c3fbde6a"/>
 </div>
