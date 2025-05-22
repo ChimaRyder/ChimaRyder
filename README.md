@@ -68,6 +68,9 @@ const bio = {
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
+### OS
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 ## GitHub Stats 📊
 ![](https://github-readme-stats.vercel.app/api?username=ChimaRyder&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&hide=issues&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChimaRyder&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
