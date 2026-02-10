@@ -7,12 +7,12 @@ Junior CS student at CIT-U. Loves playing the Sicilian Defense.
 ```js
 const bio = {
   passions : [
-    "Game Development 👾",
-    "Software Development 💻",
-    "Frontend Frameworks 🖌️",
+    "Software Development",
+    "Cybersecurity",
+    "Game Development",
   ],
   currentProjects : [
-    "Huggle: Mobile E-commerce Platform 🛒",
+    "keepCoding();",
   ],
 }
 ```
