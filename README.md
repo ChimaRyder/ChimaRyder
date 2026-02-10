@@ -70,6 +70,8 @@ const bio = {
 
 ### OS
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff)
+![Kali](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=fff)
 
 ## GitHub Stats 📊
 ![](https://github-readme-stats.vercel.app/api?username=ChimaRyder&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&hide=issues&show_icons=true)
