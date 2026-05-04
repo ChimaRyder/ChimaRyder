@@ -2,7 +2,7 @@
 
 <h1 align="center"> ⛩ Frenz Repunte ⛩ </h1>
 
-Junior CS student at CIT-U. Loves playing the Sicilian Defense.
+Senior CS student at CIT-U. Loves playing the Sicilian Defense.
 
 ```js
 const bio = {
@@ -12,7 +12,7 @@ const bio = {
     "Game Development",
   ],
   currentProjects : [
-    "keepCoding();",
+    "ARK",
   ],
 }
 ```
