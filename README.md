@@ -2,7 +2,7 @@
 
 <h1 align="center"> ⛩ Frenz Repunte ⛩ </h1>
 
-Senior CS student at CIT-U. Loves playing the Sicilian Defense.
+San Diegan who likes making things. Part-time Krenko player.
 
 ```js
 const bio = {
@@ -12,7 +12,7 @@ const bio = {
     "Game Development",
   ],
   currentProjects : [
-    "ARK",
+    "Biblioplex",
   ],
 }
 ```
