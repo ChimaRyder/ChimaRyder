@@ -83,8 +83,11 @@ const bio = {
 
 ---
 
+ 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=thesuperchima123&count=3"/>
+  
+  ![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=thesuperchima123&count=3&width=700&avatar=0&now_playing=0&progress=0&profile=off&footer=wave)
+  
   <br/>
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e4f28204-ea88-4364-a321-8330c3fbde6a"/>
 </div>
