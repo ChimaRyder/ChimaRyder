@@ -79,7 +79,7 @@ const bio = {
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ChimaRyder&theme=tokyonight&hide_border=true)
 
 ## GitHub Trophies 🏆
-![](https://github-profile-trophy.vercel.app/?username=ChimaRyder&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&title=-Issues)
+![](https://trophygithubreadmelang.cybee.dpdns.org/?username=ChimaRyder&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&title=-Issues)
 
 ---
 
